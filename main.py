@@ -220,7 +220,7 @@ class Browser(QWidget):
             <body>
                 <h1>Settings</h1>
                 
-                loading option.yml result: ❌ please using Sublime Text 3/visual studio code for edit option.yml 
+                loading.. fail to open  option.yml result: ❌ please using Sublime Text 3/visual studio code for edit option.yml 
             </body>
             </html>
             <style type="text/css">h1{text-align: center;} </style>
