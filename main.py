@@ -1,4 +1,4 @@
-1import sys
+import sys
 import json
 from PyQt5.QtCore import Qt, QUrl, QEvent
 from PyQt5.QtGui import QIcon
